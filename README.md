@@ -1,8 +1,8 @@
-# 🚀 CODEFORGE
+# <!-- 🚀 --> CODEFORGE
 
 CODEFORGE is a LeetCode-inspired coding platform built with the MERN stack. It enables users to solve coding problems, execute code online, and get AI-powered programming assistance.
 
-## 🛠️ Technologies
+## <!-- 🛠️ --> Technologies
 
 * React.js
 * Node.js
@@ -12,7 +12,7 @@ CODEFORGE is a LeetCode-inspired coding platform built with the MERN stack. It e
 * JavaScript
 * Google Gemini API
 
-## ✨ Features
+## <!--✨--> Features
 
 * User & Admin roles
 * Online code execution
@@ -22,7 +22,7 @@ CODEFORGE is a LeetCode-inspired coding platform built with the MERN stack. It e
 * Problem management
 * Submission history
 
-## ⚙️ Process
+## <!--⚙️--> Process
 
 1. Users sign in and select a coding problem.
 2. Code is executed using the Judge0 API.
@@ -30,7 +30,7 @@ CODEFORGE is a LeetCode-inspired coding platform built with the MERN stack. It e
 4. Gemini AI provides programming assistance.
 5. Admins manage coding problems and platform content.
 
-## 🚀 How to Run
+## <!--🚀--> How to Run
 
 1. Clone the repository
 2. Install dependecies: npm install
